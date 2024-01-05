@@ -10,15 +10,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm probably out hiking or experimenting with astrophotography. I find exploring the night sky as fascinating as exploring lines of code!
 
-- 
-🛠️ My favorite tools
+  🛠️ My favorite tools
 👨‍💻 Programming languages
-CSS HTML JavaScript jQuery Laravel Vue.js Node.js PHP Codeigniter SQL MySQL
+Bash C C++ CSS HTML Java JavaScript Markdown Node.js PHP Python SASS SQL TypeScript
+
+🧰 Frameworks and libraries
+Arduino Bootstrap Express.js NumPy Pandas React
 
 🗄️ Databases and cloud hosting
-GitHub Pages Hostinger MySQL
+GitHub Pages Heroku MongoDB MySQL PostgreSQL Repl.it
 
 💻 Software and tools
-Brave Codepen Git Postman Stack Overflow Visual Studio Code
+Audacity Brave Codepen Git Jupyter OBS Studio Postman Stack Overflow Visual Studio Code
 
 
