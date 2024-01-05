@@ -1,7 +1,5 @@
 ### Welcome to Yagnik Solanki profile! 👋
 
-**SolankiYagnik/SolankiYagnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on Building responsive and accessible websites using the latest technologies like React, Vue, Node.js, and Laravel. I'm especially focused on improving user experience and incorporating progressive web app (PWA) features into my projects.
 - 🌱 I’m currently learning Advanced CSS techniques and exploring the capabilities of Vue.js. I'm also diving deeper into backend development with a focus on RESTful API design.
