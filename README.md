@@ -9,3 +9,16 @@
 - 📫 How to reach me: 002yagniksolanki@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I'm probably out hiking or experimenting with astrophotography. I find exploring the night sky as fascinating as exploring lines of code!
+
+- 
+🛠️ My favorite tools
+👨‍💻 Programming languages
+CSS HTML JavaScript jQuery Laravel Vue.js Node.js PHP Codeigniter SQL MySQL
+
+🗄️ Databases and cloud hosting
+GitHub Pages Hostinger MySQL
+
+💻 Software and tools
+Brave Codepen Git Postman Stack Overflow Visual Studio Code
+
+
